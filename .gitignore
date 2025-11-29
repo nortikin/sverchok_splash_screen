@@ -1,3 +1,6 @@
+# SVG branch
+*.png
+
 #Blender's cache folder
 __pycache__
 
