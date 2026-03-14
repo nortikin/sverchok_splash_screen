@@ -8,7 +8,7 @@ For usage:
 3. Again push smile `👈☝ ( ͡° ͜ʖ ͡°)` button and choose section
 4. Use `left`-`right` buttons to switch and `X` button to close
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/23e372e03c6ba54c34881d40af1dac89/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+[SPLASH SCREEN OVERVIEW](https://rutube.ru/video/23e372e03c6ba54c34881d40af1dac89/?r=wd)
 
 For contributies:
 1. To contribut your own splash SVG cards, switch to `SVG` branch. Create fork and pull request or work directly there.
