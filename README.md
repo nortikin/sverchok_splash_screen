@@ -15,3 +15,4 @@ For contributies:
 5. Commit (`SVG` branch ignores png files).
 6. Compile PNGs in `SVG` branch.
 7. Change to `main` branch and commit pngs. main page ignores svg files.
+8. If replace png, before compiling pngs, you should commit removing old pngs, that you replace. Only than switch to svg, compile and commit both.
