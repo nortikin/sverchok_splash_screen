@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1122.5197 793.70079"
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="Схема_00_Принципы.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.73583299"
+     inkscape:cx="517.10103"
+     inkscape:cy="419.25274"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13"
+     inkscape:document-units="mm"
+     showgrid="false"><sodipodi:guide
+       position="37.795276,793.7008"
+       orientation="-1,0"
+       id="guide20"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="1084.7244,793.7008"
+       orientation="-1,0"
+       id="guide21"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="0,699.21261"
+       orientation="0,1"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="0,75.590552"
+       orientation="0,1"
+       id="guide8"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /></sodipodi:namedview><defs
+     id="defs9"><style
+       id="style7">
+      .zoom-group-left {
+        transition: transform 0.3s ease-in-out;
+        transform-origin: top left;
+        transform-box: fill-box;
+      }
+      .zoom-group-left:hover {
+        transform: scale(1.1);
+      }
+      .zoom-group-center {
+        transition: transform 0.3s ease-in-out;
+        transform-origin: top;
+        transform-box: fill-box;
+      }
+      .zoom-group-center:hover {
+        transform: scale(1.1);
+      }
+      .zoom-group-right {
+        transition: transform 0.3s ease-in-out;
+        transform-origin: top right;
+        transform-box: fill-box;
+      }
+      .zoom-group-right:hover {
+        transform: scale(1.1);
+      }
+    </style><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath611"><rect
+         style="fill:none;stroke-width:9.4;stroke-linecap:round"
+         id="rect613"
+         width="1046.4646"
+         height="332.34216"
+         x="37.795277"
+         y="214.48817"
+         ry="13.999999"
+         rx="14.000001" /></clipPath></defs><defs
+     id="defs1"><style
+       id="style1">
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+    </style><marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto"><polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#555555"
+         id="polygon1" /></marker><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21"><rect
+         style="fill:#e6e6e6;stroke:#4d4d4d;stroke-width:0.8;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect21"
+         width="227.16484"
+         height="197.6132"
+         x="589.78979"
+         y="-262.10211"
+         ry="6.1261263"
+         rx="6.1261263" /></clipPath></defs><!-- Background --><rect
+     width="1122.5197"
+     height="793.70081"
+     fill="#f5f5f5"
+     rx="47.372589"
+     id="rect1"
+     x="0"
+     y="-2.1849264e-08"
+     ry="52.139648"
+     style="fill:#4b4b4b;fill-opacity:1;stroke-width:0.999999" /><!-- Title --><text
+     x="560.91266"
+     y="58.735443"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="18px"
+     font-weight="bold"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Segoe UI', Arial, sans-serif;-inkscape-font-specification:'Segoe UI, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Segoe UI', Arial, sans-serif;-inkscape-font-specification:'Segoe UI, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+       id="tspan19">Принципы работы в дереве Сверчка</tspan></text><!-- STEP 1: INPUT --><g
+     class="zoom-group-left"
+     transform="translate(0, 0)"
+     id="g47"><rect
+       x="37.795277"
+       y="94.488197"
+       width="1046.9291"
+       height="464.46283"
+       fill="#d5e8d4"
+       stroke="#82b366"
+       stroke-width="2"
+       rx="8"
+       id="rect3"
+       ry="8"
+       style="mix-blend-mode:normal;stroke-width:0;stroke-dasharray:none" /><rect
+       x="37.795277"
+       y="94.48819"
+       width="1046.9291"
+       height="30"
+       fill="#82b366"
+       rx="7.9999995"
+       id="rect4"
+       ry="8"
+       style="mix-blend-mode:normal;stroke-width:0.999997" /><text
+       x="197.99942"
+       y="113.56929"
+       text-anchor="middle"
+       fill="#ffffff"
+       font-size="14px"
+       font-weight="bold"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Segoe UI', Arial, sans-serif;-inkscape-font-specification:'Segoe UI, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333">Содержание</text><text
+       x="77.99942"
+       y="153.35336"
+       text-anchor="middle"
+       fill="#333333"
+       font-size="13px"
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.8745px;font-family:'Segoe UI', Arial, sans-serif;-inkscape-font-specification:'Segoe UI, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1"><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="153.35336"
+         id="tspan462"
+         style="text-align:start;text-anchor:start;stroke-width:1">1. Линейный метод (типа далее-далее);</tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="178.19649"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan445">2. Циклический метод (проход участка цепочки узлов несколько раз </tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="203.03961"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan668">    либо проход в этом участке объектов по очереди);</tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="227.88274"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan447">3. Аккумуляция (Есть родительский узел, который собирает узлы </tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="252.72588"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan670">    своего типа и сам выводит результат);</tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="277.569"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan619">4. Текст (отдельные узлы работают с текстовой инфомрацией </tspan><tspan
+         sodipodi:role="line"
+         x="77.99942"
+         y="302.41214"
+         style="text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan672">    из текстового окна);</tspan></text></g><!-- Arrow 1→2 --><!-- CORE NODE --><!-- Footer --><text
+     x="560.91272"
+     y="751.14301"
+     text-anchor="middle"
+     fill="#ffffff"
+     font-size="12px"
+     id="text13"
+     style="fill:#e6e6e6">Быстрый старт | СВеРЧОК - схемы работы</text></svg>
